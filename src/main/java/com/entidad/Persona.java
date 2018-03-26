@@ -5,10 +5,7 @@
  */
 package com.entidad;
 
-/**
- *
- * @author admin
- */
+
 public class Persona {
 
     private long idPersona;
